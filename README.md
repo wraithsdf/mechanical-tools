@@ -21,6 +21,31 @@ Ce dépôt contient une collection de scripts Python pour différents calculs m�
 - Vérification des contraintes
 - Prise en compte du coefficient de sécurité
 
+### 4. Transmission par Courroie/Chaîne (`transmission.py`)
+- Calcul des rapports de vitesse
+- Dimensionnement des courroies
+- Sélection des pas de chaîne
+- Visualisation des relations de vitesse
+
+### 5. Cycles Thermodynamiques (`cycle_thermodynamique.py`)
+- Analyse des cycles Otto et Diesel
+- Calcul des rendements
+- Diagrammes PV
+- Analyse des états thermodynamiques
+
+### 4. Transmission par Courroie/Chaîne (`transmission.py`)
+- Calcul des rapports de transmission
+- Calcul des vitesses de rotation
+- Calcul des couples transmis
+- Calcul de la puissance transmise
+- Visualisation des caractéristiques
+
+### 5. Cycles Thermodynamiques (`cycle_thermodynamique.py`)
+- Calcul des cycles Otto et Diesel
+- Calcul des rendements
+- Calcul des pressions et températures
+- Visualisation des diagrammes PV
+
 ## Prérequis
 ```bash
 pip install numpy matplotlib
