@@ -54,6 +54,7 @@ mecanisme.plot_cinematique()
 arbre = DimensionnementArbre(couple=1000, limite_elastique=400e6)
 diametre = arbre.diametre_minimal()
 ```
+<img width="2490" height="1637" alt="image" src="https://github.com/user-attachments/assets/dd41d612-e937-49d3-8f47-07f23cffa59d" />
 
 ## Contribution
 N'hésitez pas à contribuer à ce projet en soumettant des pull requests ou en signalant des problèmes dans la section Issues.  CHEBOUT IBRAHIM RASSIM (INGENIEUR MECANIQUE)
