@@ -55,6 +55,8 @@ arbre = DimensionnementArbre(couple=1000, limite_elastique=400e6)
 diametre = arbre.diametre_minimal()
 ```
 <img width="2490" height="1637" alt="image" src="https://github.com/user-attachments/assets/dd41d612-e937-49d3-8f47-07f23cffa59d" />
+<img width="3452" height="2160" alt="image" src="https://github.com/user-attachments/assets/50b564be-bcaf-4267-8259-2c1d2b07b6a1" />
+
 
 ## Contribution
 N'hésitez pas à contribuer à ce projet en soumettant des pull requests ou en signalant des problèmes dans la section Issues.  CHEBOUT IBRAHIM RASSIM (INGENIEUR MECANIQUE)
