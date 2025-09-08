@@ -82,7 +82,8 @@ diametre = arbre.diametre_minimal()
 <img width="2490" height="1637" alt="image" src="https://github.com/user-attachments/assets/dd41d612-e937-49d3-8f47-07f23cffa59d" />
 <img width="3452" height="2160" alt="image" src="https://github.com/user-attachments/assets/50b564be-bcaf-4267-8259-2c1d2b07b6a1" />
 <img width="2982" height="1647" alt="image" src="https://github.com/user-attachments/assets/68bfba99-0815-4872-a6a9-ac01370f0349" />
-![Uploading image.png…]()
+<img width="2482" height="1642" alt="image" src="https://github.com/user-attachments/assets/af272a4d-82f6-4080-857d-6e471b6edf72" />
+
 
 
 
