@@ -56,4 +56,4 @@ diametre = arbre.diametre_minimal()
 ```
 
 ## Contribution
-N'hésitez pas à contribuer à ce projet en soumettant des pull requests ou en signalant des problèmes dans la section Issues.
+N'hésitez pas à contribuer à ce projet en soumettant des pull requests ou en signalant des problèmes dans la section Issues.  CHEBOUT IBRAHIM RASSIM (INGENIEUR MECANIQUE)
